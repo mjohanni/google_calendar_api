@@ -56,18 +56,6 @@ event_request_body = {
         },
     ],
     'recurrence' : recurrence
-#     "creator": {
-#     "id": string,
-#     "email": string,
-#     "displayName": string,
-#     "self": boolean
-#   },
-#   "organizer": {
-#     "id": string,
-#     "email": string,
-#     "displayName": string,
-#     "self": boolean
-#   }
 }
 
 maxAttendees = 3
